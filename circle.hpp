@@ -12,7 +12,7 @@ class Circle {
 		Circle(const Circle &c);
 
 		// Destructor
-		virtual ~Circle();
+		~Circle();
 
 		// Setters
 		virtual void set_radius(float radius);
